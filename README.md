@@ -27,7 +27,7 @@ Data Structures and Algorithms form the backbone of computer science and softwar
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
       ```bash
-      git clone https://github.com/balaji-sivasakthi/self-learn-dsa-java.git
+      git clone 
       ```
 
 2. **Explore the Folders**: Browse through the folders to find various DSA topics such as arrays, linked lists, sorting algorithms, dynamic programming, and more.
@@ -42,8 +42,8 @@ Data Structures and Algorithms form the backbone of computer science and softwar
 
 Stay updated with the latest additions and community discussions:
 
-- Follow me on [GitHub](https://github.com/balaji-sivasakthi)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/balajisivasakthi)
+- Follow me on 
+- Connect with me on [LinkedIn]
 
 ## Happy Coding! 🚀💻
 
